@@ -1,0 +1,7 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+/* You need to have a 'static' folder setup (for css/js files). The directory should be static/styles/(files) <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+
+*/
